@@ -5,3 +5,17 @@
 /OnlineStore/OnlineStore/obj
 /OnlineStore/.vs/OnlineStore/v17
 /OnlineStore/.vs/OnlineStore/FileContentIndex
+/OnlineStore/OnlineStore/bin/Debug/net8.0
+/OnlineStore/.vs/OnlineStore/config
+/OnlineStore/OnlineStore.Business/bin/Debug/net8.0
+/OnlineStore/OnlineStore.Business/obj
+/OnlineStore/OnlineStore.Contracts/bin/Debug/net8.0
+/OnlineStore/OnlineStore.Contracts/obj
+/OnlineStore/OnlineStore.Dtos/bin/Debug/net8.0
+/OnlineStore/OnlineStore.Dtos/obj
+/OnlineStore/OnlineStore.Entities/bin/Debug/net8.0
+/OnlineStore/OnlineStore.Entities/obj
+/OnlineStore/OnlineStore.Mapping/bin/Debug/net8.0
+/OnlineStore/OnlineStore.Mapping/obj
+/OnlineStore/OnlineStore.Utils/bin/Debug/net8.0
+/OnlineStore/OnlineStore.Utils/obj
